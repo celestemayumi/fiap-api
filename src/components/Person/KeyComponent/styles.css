@@ -1,0 +1,13 @@
+.card-key {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0px
+}
+
+.card-key label{
+    font-weight: 700;
+}
+
+.card-key p {
+    text-transform: uppercase;
+}
